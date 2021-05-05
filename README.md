@@ -1,1 +1,1 @@
-# Web-craping-bot
+# Web-scraping-bot
