@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/70446403/118255189-94a1f400-b4c9-11eb-8c3f-b8b121d35f16.png)
+
+
 # Web-scraping-bot.
 
 Web scraping is a pocess of extracting content and data from the website using automated tools. Web scraping allows to acquire non-tabular or poorly structured data from websites and convert it into a usable, structured format, such as a CSV file or spreadsheet. In this project i am web scraping Github website.
