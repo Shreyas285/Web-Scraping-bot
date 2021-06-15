@@ -9,4 +9,4 @@ GitHub is a provider of Internet hosting for software development and version co
 
 I have writen a python script  to responsible scrape the Github repository for top 25 topics and under each topic, for top 25 repositories. I have sent quries to download top 25 project topics in githubs website using requests module within the github topic's webpage. Used the Beautiful soup module to parse the downloaded html contents into tree like structure for data extraction. The extracted data is converted into tabular format using pandas and downloaded as .csv file.
 
-[Web-scraping | NB viewer](https://nbviewer.jupyter.org/github/Shreyas285/Web_Scraping_Bot/blob/main/web_scraping.ipynb)
+[Web-scraping || NB viewer](https://nbviewer.jupyter.org/github/Shreyas285/Web_Scraping_Bot/blob/main/web_scraping.ipynb)
